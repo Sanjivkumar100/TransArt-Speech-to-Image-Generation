@@ -39,5 +39,3 @@ This project is a **Speech-to-Image Generation** application built using Hugging
 - **Asynchronous API Calls** using `asyncio` for faster performance.  
 - **Support for Multiple Languages** beyond Tamil.  
 - **Improved Image Prompts** using GPT-based prompt engineering.  
-
-Would you like me to modify or improve any part of the project? 🚀
